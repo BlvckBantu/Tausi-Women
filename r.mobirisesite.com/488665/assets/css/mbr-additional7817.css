@@ -1,18 +1,6 @@
 .btn {
   border-width: 2px;
 }
-img,
-.card-wrap,
-.card-wrapper,
-.video-wrapper,
-.mbr-figure iframe,
-.google-map iframe,
-.slide-content,
-.plan,
-.card,
-.item-wrapper {
-  border-radius: 2rem !important;
-}
 .video-wrapper {
   overflow: hidden;
 }
